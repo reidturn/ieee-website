@@ -18,10 +18,10 @@ Would you like to volunteer to work the bagel stand? It's fun, you get to meet a
 
 IEEE is always looking for new people to help at the dB Cafe, and it is a great way to fulfill IEEE active membership requirements!
 
-To sign up, email us at [IEEE-Ops@umich.edu](mailto:IEEE-Ops@umich.edu).
+To sign up, email us at [IEEE-Operations@umich.edu](mailto:IEEE-Operations@umich.edu).
 
 ## Suggestions
-If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:hedbcafe@umich.edu) or [IEEE-Ops@umich.edu](IEEE-Ops@umich.edu).
+If you have any suggestions please contact us at [thedbcafe@umich.edu](mailto:hedbcafe@umich.edu) or [IEEE-Operations@umich.edu](mailto:IEEE-Operations@umich.edu).
 
 ## Our Menu
 
