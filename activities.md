@@ -4,4 +4,4 @@ permalink: /committees/activities/
 ---
 
 #Activities Committee
-**Chair: TODO (ieee-corp@umich.edu)**
+**Chair: TODO (ieee.activities@umich.edu)**
